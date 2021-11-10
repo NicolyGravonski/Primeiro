@@ -1,2 +1,3 @@
 # Primeiro
- meu primeir repositório
+ meu primeiro repositório
+ Realizando o primeiro commit
